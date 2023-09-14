@@ -1,6 +1,6 @@
 # Alura Frame
 
-Projeto criado a partir dos cursos de javascript avançado da plataforma alura.
+Projeto criado a partir dos cursos de javascript avançado da plataforma Alura.
 
 ## Sobre
 
